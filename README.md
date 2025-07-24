@@ -1,5 +1,6 @@
-# AWS-Notes
+# AWS
 ### What Is AWS Cloud?
+```
 AWS (Amazon Web Services) is a cloud computing platform
 AWS (Amazon Web Services) is like a powerful toolbox on the internet.
 Companies use it to build websites, store data, run apps, and much more—without needing physical servers.
@@ -17,10 +18,12 @@ It’s available 24/7, backed by data centers worldwide.
 Easy to update and secure.
 💡 Key Insight
 One server, many clients. You don’t need your own server at home. You simply connect and use the service—fast, secure, and convenient.
+```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌐 What Is Cloud Computing?
+```
 Think of cloud computing like ordering food from a restaurant instead of cooking at home:
 You don't need a kitchen (servers).
 You just order what you need, and the restaurant (cloud provider) delivers it.
@@ -42,6 +45,7 @@ Super helpful for startups and businesses that want flexibility.
 Watching Netflix? The videos stream from the cloud.
 Uploading pics to Google Photos? That’s cloud storage.
 Using Gmail or Outlook? Your emails live in the cloud.
+```
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -76,6 +80,7 @@ Offers flexibility and balance.
 
 Real-life example: A bank keeps customer transaction records on-site but uses the cloud for mobile banking apps and email services.
 ```
+---------------------------------------------------------------------------------------------------------------------------------------------
 ### AWS Cloud Benefits
 ```
 There are many reasons for going with the cloud.
@@ -111,3 +116,16 @@ Fewer Operations     : Less time managing hardware—focus on what matters:
 Flexible Capacity    : Avoid under- or over-utilization. Cloud adjusts
                        resources automatically as needed.
 ```
+--------------------------------------------------------------------------------------------------------------------------------------------
+### AWS Cloud EC2
+```
+Amazon EC2 is a virtual machine in the cloud, just like a computer you’d have at home or work. The difference is:
+It's hosted by AWS, so you don’t need any physical hardware.
+You can choose how powerful it is (CPU, memory, storage).
+You can access it from anywhere over the internet.
+It runs 24/7 if you want—or just when needed.
+You can install software, run applications, store files—just like a regular PC.
+🧠 Think of it as a computer you rent remotely, but you still control everything inside.
+```
+
+
