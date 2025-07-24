@@ -126,6 +126,16 @@ You can access it from anywhere over the internet.
 It runs 24/7 if you want—or just when needed.
 You can install software, run applications, store files—just like a regular PC.
 🧠 Think of it as a computer you rent remotely, but you still control everything inside.
+
+1. AWS EC2 Instance Types
+    There are different instance types.
+    Which one to use depends on the needs.
+
+The types are best used for different things.
+Therefore, when selecting an instance type, consider the needs.
+For example, needs can be a requirement for compute, memory, or storage.
 ```
+
+
 
 
