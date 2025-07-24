@@ -164,7 +164,39 @@ EC2 Instance Types - Summary
 
 
 ```
+---------------------------------------------------------------------------------------------------------------------------------------
+```
+AWS EC2 Pricing Models
+----------------------
 
+1. On-Demand Instances
+- No upfront cost.
+- Pay only for usage.
+- Best for short-term or unpredictable workloads.
+
+2. Savings Plan
+- Commit for 1 or 3 years.
+- Get discounts for consistent usage.
+- Extra usage charged at on-demand rates.
+- Use AWS Cost Explorer to plan usage.
+
+3. Reserved Instances
+- Reserve instances for 1 or 3 years.
+- Lower cost than On-Demand.
+- Ideal for predictable workloads.
+
+4. Spot Instances
+- Use spare AWS capacity.
+- Up to 90% discount.
+- Can be interrupted—best for flexible tasks.
+
+5. Dedicated Hosts
+- Entire physical server is yours.
+- Use existing software licenses.
+- Most expensive option.
+
+```
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
