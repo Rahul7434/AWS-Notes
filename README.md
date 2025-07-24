@@ -42,3 +42,38 @@ Super helpful for startups and businesses that want flexibility.
 Watching Netflix? The videos stream from the cloud.
 Uploading pics to Google Photos? That’s cloud storage.
 Using Gmail or Outlook? Your emails live in the cloud.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Deployment Models 
+There are three different kinds of deployment 
+models: 
+1. Cloud-based 
+2. On-premises 
+3. Hybrid
+☁️ Cloud-Based Deployment
+Services are hosted entirely on the cloud.
+
+You access everything via the internet.
+
+No need to buy or manage your own physical hardware.
+
+Real-life example: A startup hosts its website on AWS, stores files in Google Drive, and uses Salesforce CRM — all cloud-based.
+
+🖥️ On-Premises Deployment
+Everything runs on servers located within your organization.
+
+You buy and maintain your own hardware and infrastructure.
+
+Offers complete control, but requires more effort and cost.
+
+Real-life example: A hospital stores patient data on its internal servers to follow strict privacy rules and regulations.
+
+🔄 Hybrid Deployment
+Mix of cloud + on-premises.
+
+Critical data stays in-house, while less-sensitive tasks run on the cloud.
+
+Offers flexibility and balance.
+
+Real-life example: A bank keeps customer transaction records on-site but uses the cloud for mobile banking apps and email services.
