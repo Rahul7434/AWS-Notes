@@ -134,6 +134,35 @@ You can install software, run applications, store files—just like a regular PC
 The types are best used for different things.
 Therefore, when selecting an instance type, consider the needs.
 For example, needs can be a requirement for compute, memory, or storage.
+
+1. Application servers
+2. Gaming servers
+3. Backend servers for companies
+4. Small and medium databases
+EC2 Instance Types - Summary
+----------------------------
+
+1. General Purpose
+- Balanced in CPU, memory, and networking.
+- 💡 Use for: Web servers, small databases, gaming servers.
+
+2. Compute Optimized
+- High-performance CPU for fast processing.
+- 💡 Use for: Scientific modeling, gaming, web apps.
+
+3. Memory Optimized
+- More memory for handling large data sets.
+- 💡 Use for: Big databases, in-memory caching, real-time analytics.
+
+4. Accelerated Computing
+- Uses GPUs or accelerators for complex tasks.
+- 💡 Use for: Video rendering, machine learning, graphics apps.
+
+5. Storage Optimized
+- High-speed and large local storage.
+- 💡 Use for: File systems, data warehouses, large transaction systems.
+
+
 ```
 
 
